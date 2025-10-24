@@ -109,7 +109,7 @@
 
 ### Sobre este perfil
 
-Este README fue creado como parte del **Laboratorio 05 de IS388 - Construcción y Evolución de Software** de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH).
+Estudiante de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) de Ingeniería de Sistemas.
 
 **Objetivos del laboratorio:**
 - Gestión de control de versiones con Git y GitHub
