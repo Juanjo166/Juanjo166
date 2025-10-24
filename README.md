@@ -111,7 +111,4 @@
 
 Estudiante de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) de Ingeniería de Sistemas.
 
-**Objetivos del laboratorio:**
-- Gestión de control de versiones con Git y GitHub
-- Implementación de GitFlow
-- Colaboración en proyectos de desarrollo de software
+
