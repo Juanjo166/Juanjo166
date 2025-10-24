@@ -3,10 +3,10 @@
 
 ---
 
-- 🔭 Estoy en Github: [@tu-usuario]
+- 🔭 Estoy en Github: @Juanjo166
 - 🌱 Actualmente aprendiendo: MLops, DevOps
 - 💬 Pregúntame acerca de: Java, Spring Framework
-- 📫 Mis experiencias en: [tu-linkedin]
+- 📫 Mis experiencias en: https://www.linkedin.com/in/juan-huaman-8b42b230b/
 
 ---
 
