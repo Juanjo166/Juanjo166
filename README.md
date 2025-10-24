@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hola, Soy [Tu Nombre]</h1>
+<h3 align="center">Desarrollador Back-End | Data Ops | Ingeniero Informático por la UNSCH</h3>
 
-<!--
-**Juanjo166/Juanjo166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 Estoy en Github: [@tu-usuario]
+- 🌱 Actualmente aprendiendo: MLops, DevOps
+- 💬 Pregúntame acerca de: Java, Spring Framework
+- 📫 Mis experiencias en: [tu-linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Mis Proyectos
+
+| Name | Description | GitHub Stars |
+|------|-------------|--------------|
+| RetroFit-ejemplo | Servicios de retrofit para interacciones con API rests | ⭐ |
+
+---
+
+### Contactos
+
+<p align="left">
+<a href="tu-linkedin" target="blank">
+<img align="center" src="linkedin-icon-url" alt="LinkedIn" height="30" width="40"/>
+</a>
+</p>
+
+### Lenguajes y herramientas
+
+<p align="left">
+<a href="https://www.java.com" target="_blank">
+<img src="java-icon-url" alt="java" width="40" height="40"/>
+</a>
+<!-- Agrega más tecnologías -->
+</p>
