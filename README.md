@@ -1,12 +1,12 @@
-<h1 align="center">Hola, Soy [Tu Nombre]</h1>
+<h1 align="center">Hola, Soy Juan Huaman</h1>
 <h3 align="center">Desarrollador Back-End | Data Ops | Ingeniero Informático por la UNSCH</h3>
 
 ---
 
-- 🔭 Estoy en Github: [@tu-usuario-github](https://github.com/tu-usuario-github)
+- 🔭 Estoy en Github: [@Juanjo166](https://github.com/Juanjo166)
 - 🌱 Actualmente aprendiendo: **MLops, DevOps**
 - 💬 Pregúntame acerca de: **Java, Spring Framework**
-- 📫 Mis experiencias en: [LinkedIn](https://www.linkedin.com/in/tu-perfil-linkedin)
+- 📫 Mis experiencias en: [LinkedIn](https://www.linkedin.com/in/juan-huaman-8b42b230b/)
 
 ---
 
@@ -23,8 +23,8 @@
 ### Contactos
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tu-perfil-linkedin" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<a href="https://www.linkedin.com/in/juan-huaman-8b42b230b/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Juan Huaman" height="30" width="40" />
 </a>
 </p>
 
@@ -94,15 +94,15 @@
 ### Estadísticas de GitHub
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tu-usuario-github&show_icons=true&locale=es&layout=compact" alt="tu-usuario-github" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanjo166&show_icons=true&locale=es&layout=compact" alt="Juanjo166" />
 </p>
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&locale=es" alt="tu-usuario-github" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Juanjo166&show_icons=true&locale=es" alt="Juanjo166" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&" alt="tu-usuario-github" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Juanjo166&locale=es" alt="Juanjo166" />
 </p>
 
 ---
