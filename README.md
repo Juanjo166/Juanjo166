@@ -109,6 +109,6 @@
 
 ### Sobre este perfil
 
-Estudiante de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) de Ingeniería de Sistemas.
+Estudiante de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) de Ingeniería de Sistemas de la serie 300.
 
 
