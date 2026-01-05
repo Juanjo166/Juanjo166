@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Juan Huaman</h1>
-<h3 align="center">Desarrollador Back-End | Data Ops | Ingeniero Informático por la UNSCH</h3>
+<h3 align="center">Desarrollador Back-End and Frontend | Data Ops | Ingeniero Informático por la UNSCH</h3>
 
 ---
 
