@@ -1,114 +1,154 @@
-<h1 align="center">Hola, Soy Juan Huaman</h1>
-<h3 align="center">Desarrollador Back-End and Frontend | Data Ops | Ingeniero Informático por la UNSCH</h3>
+# 👋 ¡Hola! Soy Juan Josue Huaman Soto
+
+### 💻 Desarrollador Full Stack | 📱 Mobile Developer | ☁️ Cloud Enthusiast
+
+Me apasiona crear soluciones digitales modernas, útiles y multiplataforma. Disfruto trabajar tanto en **Frontend** como en **Backend**, desarrollando aplicaciones que puedan funcionar en distintos dispositivos y plataformas.
+
+Actualmente me enfoco especialmente en el desarrollo de aplicaciones con **Flutter** y **React Native**, integrándolas con servicios en la nube, APIs y bases de datos modernas.
 
 ---
 
-- 🔭 Estoy en Github: [@Juanjo166](https://github.com/Juanjo166)
-- 🌱 Actualmente aprendiendo: **MLops, DevOps**
-- 💬 Pregúntame acerca de: **Java, Spring Framework**
-- 📫 Mis experiencias en: [LinkedIn](https://www.linkedin.com/in/juan-huaman-8b42b230b/)
+## 🚀 Sobre mí
+
+* 🎨 Desarrollo interfaces modernas y responsivas.
+* ⚙️ Construyo APIs y soluciones Backend.
+* 📱 Me apasiona el desarrollo **multiplataforma**.
+* ☁️ Trabajo frecuentemente con servicios Cloud.
+* 🔥 Utilizo **Firebase** y **Supabase** para autenticación, almacenamiento y bases de datos.
+* 🤖 Me interesa integrar **Inteligencia Artificial** en aplicaciones.
+* 🧠 Siempre estoy aprendiendo nuevas tecnologías y creando proyectos.
 
 ---
 
-## Mis Proyectos
+## 🛠️ Tecnologías que utilizo
 
-| Name | Description | GitHub Stars |
-|------|-------------|--------------|
-| RetroFit-ejemplo | Servicios de retrofit para interacciones con API rests | ⭐ |
-| proyecto-devnet | Prácticas de laboratorio de control de versiones con Git | ⭐ |
-| app-springboot | Aplicación web con Spring Boot y MySQL | ⭐ |
+### 🎨 Frontend & Mobile
 
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Contactos
+### ⚙️ Backend
 
-<p align="left">
-<a href="https://www.linkedin.com/in/juan-huaman-8b42b230b/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Juan Huaman" height="30" width="40" />
-</a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
----
+### ☁️ Cloud & Bases de Datos
 
-### Lenguajes y herramientas
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
-</p>
+### 🔧 Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-### Estadísticas de GitHub
+# 🌟 Proyectos destacados
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanjo166&show_icons=true&locale=es&layout=compact" alt="Juanjo166" />
-</p>
+## 🦙 APU GO
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Juanjo166&show_icons=true&locale=es" alt="Juanjo166" />
-</p>
+### 🎮 Aprende quechua jugando
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Juanjo166&locale=es" alt="Juanjo166" />
-</p>
+Aplicación multiplataforma orientada al aprendizaje del **idioma quechua mediante gamificación**.
+
+La idea es convertir el aprendizaje en una experiencia interactiva mediante actividades, retos, progreso y elementos de juego.
+
+**Tecnologías y conceptos:**
+
+* 📱 Desarrollo multiplataforma
+* 🎮 Gamificación
+* 🧠 Inteligencia Artificial
+* ☁️ Servicios Cloud
+* 🗃️ Bases de datos en la nube
 
 ---
 
-### Sobre este perfil
+## 📊 CONTI
 
-Estudiante de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) de Ingeniería de Sistemas de la serie 300.
+### 💰 Contabilidad en línea
 
+Aplicación diseñada para facilitar la gestión contable mediante una plataforma accesible desde diferentes dispositivos.
 
+Permite centralizar información y procesos contables dentro de una solución digital moderna.
+
+**Características principales:**
+
+* ☁️ Información disponible en la nube
+* 📊 Gestión de información contable
+* 📱 Aplicación multiplataforma
+* 🔐 Gestión segura de usuarios y datos
+
+---
+
+## 🎓 UNI CHAT
+
+### 💬 Una comunidad para universitarios
+
+Aplicación de comunicación orientada a estudiantes universitarios.
+
+Busca crear un espacio donde los estudiantes puedan **conectarse, conversar e interactuar dentro de su comunidad universitaria**.
+
+**Conceptos principales:**
+
+* 💬 Chat en tiempo real
+* 👨‍🎓 Comunidad universitaria
+* 📱 Multiplataforma
+* ☁️ Backend en la nube
+* 🔥 Firebase / servicios en tiempo real
+
+---
+
+# 💡 Lo que más me gusta desarrollar
+
+```text
+📱 Aplicaciones móviles
+🌐 Aplicaciones web
+⚙️ APIs REST
+☁️ Arquitecturas Cloud
+🔥 Aplicaciones con Firebase y Supabase
+🎮 Sistemas gamificados
+🤖 Aplicaciones integradas con Inteligencia Artificial
+```
+
+---
+
+# 📈 Actualmente aprendiendo y explorando
+
+```text
+🧠 Inteligencia Artificial
+🤖 Agentes de IA
+⚡ FastAPI
+🐍 Python
+📱 Flutter
+⚛️ React Native
+☁️ Arquitecturas Cloud
+🗄️ Bases de datos vectoriales
+```
+
+---
+
+# 🧩 Mi filosofía como desarrollador
+
+> **Construir, experimentar, aprender y volver a construir.**
+
+Me gusta transformar ideas en aplicaciones reales, experimentar con nuevas tecnologías y encontrar formas de crear software que pueda ser útil para otras personas.
+
+---
+
+## 🤝 Conectemos
+
+Estoy abierto a colaborar en proyectos relacionados con:
+
+**📱 Desarrollo Mobile · 🌐 Desarrollo Web · ☁️ Cloud · 🤖 Inteligencia Artificial · 🎮 Gamificación**
+
+⭐ Siempre hay algo nuevo por aprender y algún proyecto interesante por construir.
